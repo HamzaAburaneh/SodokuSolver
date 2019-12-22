@@ -1,6 +1,6 @@
 # Soduko Solver
 
-An algorithm to solve Soduko puzzles. This program uses a _Brute Force Search_ with _Backtracking_ to solve the Soduko.
+An algorithm to solve Soduko puzzles. This program uses a brute force approach along with back tracking in order to complete the puzzle given.
 
 
 ## Algorithm Details
